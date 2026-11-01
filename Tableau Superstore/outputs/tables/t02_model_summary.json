@@ -1,0 +1,35 @@
+{
+  "monthly_gmv_mean": 48469.47,
+  "gmv_yoy_2026": 21.44,
+  "abc": {
+    "A": 64.4,
+    "B": 23.3,
+    "C": 12.3
+  },
+  "rfm_top_segment": "重要价值客户",
+  "rfm_top_sales_share": 40.2,
+  "cohort_m1": 11.9,
+  "cohort_m3": 9.8,
+  "cohort_m6": 10.91,
+  "cohort_m12": 12.74,
+  "new_customers_by_year": {
+    "2023": 605,
+    "2024": 131,
+    "2025": 57,
+    "2026": 11
+  },
+  "rules_count": 11,
+  "top_rule": "Binders+Paper → Storage",
+  "top_rule_lift": 1.247,
+  "funnel": {
+    "全部订单": 5111,
+    "履约达标（≤4 天）": 3078,
+    "履约达标且未退货": 2893,
+    "履约达标·未退货·盈利": 2281
+  },
+  "repeat_rate": 0.9850746268656716,
+  "forecast_sum": 350983.28,
+  "mape": 18.38,
+  "rmse": 17877.0,
+  "silhouette_k4": 0.2592
+}
